@@ -1,11 +1,11 @@
 # Starter - Laravel, Vue, Inertia, Tailwind, Vite,
 
--   [laravel-vite preset](https://laravel-vite.dev/)
--   [Laravel 9](https://laravel.com).
--   [Vue 3](https://vuejs.org/).
--   [Inertia](https://inertiajs.com/).
--   [Tailwind](https://tailwindcss.com/).
--   [vite](https://vitejs.dev/).
+-   [Laravel-vite preset](https://laravel-vite.dev/)
+-   [Laravel 9](https://laravel.com)
+-   [Vue 3](https://vuejs.org/)
+-   [Inertia](https://inertiajs.com/)
+-   [Tailwind](https://tailwindcss.com/)
+-   [vite](https://vitejs.dev/)
 
 ## Including Sail (Docker).
 
@@ -13,6 +13,8 @@
 -   mysql 8.0
 -   phpmyadmin
 -   mailhog
+
+The development server will run inside the container. To install dependencies, use `sail npm ci`. Then `sail npm run dev` to start the server.
 
 ## License
 

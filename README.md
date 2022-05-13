@@ -1,11 +1,11 @@
-# Starter - Laravel, Vue, Inertia, Tailwind, Vite,
+# Starter - Laravel, Vue, Inertia, Tailwind, Vite
 
 -   [Laravel-vite preset](https://laravel-vite.dev/)
 -   [Laravel 9](https://laravel.com)
 -   [Vue 3](https://vuejs.org/)
 -   [Inertia](https://inertiajs.com/)
 -   [Tailwind](https://tailwindcss.com/)
--   [vite](https://vitejs.dev/)
+-   [Vite](https://vitejs.dev/)
 
 ## Including Sail (Docker).
 

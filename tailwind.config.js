@@ -1,11 +1,12 @@
 module.exports = {
 	content: [
-		'./resources/**/*.blade.php',
-		'./resources/**/*.ts',
-		'./resources/**/*.vue',
+		'./storage/framework/views/*.php',
+		'./resources/views/**/*.blade.php',
+		'./resources/js/**/*.vue',
+		'./resources/**/*.vue'
 	],
 	theme: {
-		extend: {},
+		extend: {}
 	},
-	plugins: [],
-}
+	plugins: []
+};
